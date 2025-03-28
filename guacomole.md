@@ -5,3 +5,5 @@
 * Salt 
 ## Instructions
 * peel the avocados
+* Put two avocados into a bowl
+
