@@ -1,7 +1,7 @@
 # Guacamole
 ## Ingredients
-* Avocado
-* Lemon
-* Salt
+* Avocado 20 kr
+* Lemon 10 kr
+* Salt 
 ## Instructions
 
